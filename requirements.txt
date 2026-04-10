@@ -1,0 +1,18 @@
+# Agent & Orchestration
+langchain
+langchain-openai
+langgraph
+
+# Data Extraction
+PyMuPDF
+beautifulsoup4
+
+# Vector Database
+chromadb
+
+# Evaluation Framework
+ragas
+datasets
+
+# Environment Management
+python-dotenv
