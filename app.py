@@ -27,7 +27,7 @@ def load_database():
 def load_llm():
     """Agent 2's Brain: Loads the Llama 3.3 70B model via Groq"""
     # ⚠️ WARNING: Rotate this API key as soon as possible since it was shared.
-    my_groq_key = "YOUR_API_KEY_HERE" 
+    GROQ_API_KEY = "gsk_your_actual_api_key_here" 
     
     return ChatGroq(
         api_key=my_groq_key,
