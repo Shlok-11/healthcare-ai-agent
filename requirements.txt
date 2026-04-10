@@ -1,18 +1,20 @@
-# Agent & Orchestration
+# Your UI and Core RAG
+streamlit
 langchain
+langchain-community
+langchain-text-splitters
+
+# Your Specific Models (Groq & HuggingFace)
+langchain-groq
+langchain-huggingface
+sentence-transformers
+
+# Assignment Required Packages (from your screenshot)
 langchain-openai
 langgraph
-
-# Data Extraction
 PyMuPDF
 beautifulsoup4
-
-# Vector Database
 chromadb
-
-# Evaluation Framework
 ragas
 datasets
-
-# Environment Management
 python-dotenv
