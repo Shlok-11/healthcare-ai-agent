@@ -1,3 +1,4 @@
+import streamlit as st
 import os
 import subprocess
 
@@ -5,6 +6,8 @@ import subprocess
 if not os.path.exists("data/chroma_db") and not os.path.exists("chroma_db"):
     with st.spinner("Initializing Database for the first time. This takes about a minute..."):
         subprocess.run(["python", "ingestion.py"])
+
+# ... your other imports like langchain, etc. can go here below ...
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
