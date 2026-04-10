@@ -1,0 +1,12 @@
+--- METADATA ---
+Source ID: Art_11
+URL: https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118
+----------------
+
+Leading artificial intelligence–driven drug discovery platforms: 2025 landscape and global outlook
+
+Abstract
+Artificial intelligence (AI) has progressed from experimental curiosity to clinical utility, with AI-designed therapeutics now in human trials across diverse therapeutic areas. This review critically compares 5 leading AI-driven discovery platforms: generative chemistry, phenomics-first systems, integrated target-to-design pipelines, knowledge-graph repurposing, and physics-plus–machine learning design. Key developments since 2024 include positive phase IIa results for Insilico Medicine’s Traf2- and Nck-interacting kinase inhibitor, ISM001-055, in idiopathic pulmonary fibrosis. Another key development was the Recursion–Exscientia merger, which integrated phenomic screening with automated precision chemistry into a full end-to-end platform. In addition, advancement of the Nimbus-originated tyrosine kinase 2 inhibitor, zasocitinib (TAK-279), into phase III clinical trials exemplifies Schrödinger’s physics-enabled design strategy reaching late-stage clinical testing. Emerging platforms such as Insitro, Isomorphic Labs, Atomwise, and XtalPi illustrate the field’s expanding geographic and technical footprint.
+
+Significance Statement
+Artificial intelligence (AI) is reshaping pharmacology by shortening discovery timelines, potentially reducing attrition, and expanding the design space of therapeutic candidates. Alongside technical milestones, regulatory and ethical frameworks from the US Food and Drug Administration and European Medicines Agency are beginning to address transparency, bias, accountability, intellectual property, and data privacy. Robotics tightly integrated with AI now enables self-driving laboratories that accelerate design–make–test–learn cycles and improve reproducibility. Together, these advances chart a forward-looking roadmap in which multimodal foundation models, robotics-led platforms, and hybrid physics–AI strategies are poised to accelerate translation, derisk development, and establish trustworthy AI as a cornerstone of modern drug discovery.

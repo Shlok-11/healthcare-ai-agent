@@ -1,0 +1,90 @@
+--- METADATA ---
+Source ID: Art_21
+URL: https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai
+----------------
+
+Artificial intelligence has arrived in the field of mental health. Large health systems and independent therapists alike have begun to adopt different AI tools to manage the delivery of mental health treatment.
+
+The speed of the adoption — alongside disturbing incidents of individuals using general-use AI chatbots with catastrophic consequences — is causing some concern among practitioners and researchers.
+
+"There is a lot of fear and anxiety about AI," says psychologist Vaile Wright, senior director of health care innovation at the American Psychological Association (APA). "And in particular fear around AI replacing jobs."
+
+Those concerns were a key issue last month, when 2,400 mental health care providers for Kaiser Permanente in Northern California and the Central Valley went on a 24-hour strike.
+
+One of the therapists who went on strike is Ilana Marcucci-Morris.
+
+Since 2019, Marcucci-Morris worked as a triage clinician at Kaiser Permanente's telepsychiatry intake hub. But that changed in May 2025.
+
+"I have been reassigned from triage to other duties," says Marcucci-Morris, a licensed clinical social worker based at KP in Oakland, Calif.
+
+The change in her role was driven by KP's efforts to revamp its triage system, she says.
+
+"What used to always be a 10- to 15-minute screening from a licensed clinician like myself is now being conducted by unlicensed lay operators following a script," she says. "Or, an e-visit."
+
+She and her colleagues worry that this downsizing of the triage system is paving the way for AI to take over their jobs.
+
+At Kaiser Permanente in Walnut Creek, Calif., the triage team of nine providers has been cut to three, says Harimandir Khalsa, a marriage and family therapist, who also works as a triage clinician.
+
+"The jobs that we did [are] being handled by these telephone service representatives," says Khalsa.
+
+The 24-hour strike on March 18 protested these changes, among other things.
+
+"Part of our unfair labor practice strike really is about the erosion of licensed triage within the health plan," says Marcucci-Morris.
+
+"At Kaiser Permanente, our use of AI does not replace clinical expertise," Lionel Sims, senior vice president of human resources at Kaiser Permanente Northern California, said in a statement to NPR.
+
+The health system, which is both a direct care provider and an insurer, confirmed to NPR that it is assessing AI tools from a U.K. company called Limbic.
+
+"We are currently evaluating the use of Limbic to assist members in accessing care. Limbic is not in use at this time," the statement reads.
+
+"I have not seen within mental health care any jobs be replaced by AI as of yet," says Wright of the American Psychological Association. Instead, she says, the growing adoption of AI in mental health care has been mostly limited to certain kinds of tasks.
+
+"One clear positive use case of AI tools is in the use of improving efficiencies around documentation and other automated types of activities," she says.
+
+Like billing insurance companies or updating electronic health records — time consuming tasks that bog therapists down.
+
+"Most providers want to help people, and when they get mired down with excessive paperwork or documentation in order to get paid, that takes away time from direct patient care," Wright adds. "And so I do think that there are benefits to incorporating these tools into your practice based on your personal comfort level."
+
+There are nearly 40 different products with transcription and other "documentation support" services for providers, she says.
+
+One such company is Blueprint, an AI assistant that summarizes sessions, updates electronic health records, and helps individual therapists track patient progress.
+
+Other companies are building AI tools for large health systems. For example, Limbic has built AI assistants to perform a range of tasks, including intake and patient support for big health systems.
+
+"We are deployed across 63% of the U.K.'s National Health Service, and we are currently serving patients in 13 U.S. states," says founder and CEO Ross Harper. One Limbic chatbot, called Limbic Care, is trained on cognitive behavioral therapy skills and provides direct patient support.
+
+"Let's imagine you're an individual," says Harper. "It's 3 a.m. in the morning on a Wednesday. You can't sleep, and you think 'I may actually need some help.'"
+
+In such a scenario, a patient can connect to Limbic Care right away on the patient portal.
+
+"What Limbic Care would do is it would provide evidence-based cognitive behavioral therapy tools and techniques so that you can really begin working on the challenges that you're experiencing right there and then," says Harper.
+
+Despite the growing adoption of AI tools for administrative tasks by health systems and mental health care providers, "we're not seeing a lot of clinical use of AI today," says psychiatrist Dr. John Torous, director of digital psychiatry at Beth Israel Deaconess Medical Center in Boston.
+
+One reason, he says, is that while the AI tools are exciting, "they're not well tested."
+
+Also, "it could be very expensive to run these systems," he adds. "You need a large IT team. You need infrastructure. There's safety things that have to go in place."
+
+Most small mental health practices and community mental health centers do not have the infrastructure or expertise to use these AI platforms, he says.
+
+The APA's Wright agrees. "At this point, because there is little regulation, it is incumbent on the provider to do the legwork and the research to figure out, 'Are the tools that are on the market and available, safe and effective?'" she says.
+
+However, Torous predicts that adoption of AI will keep growing as the technology improves.
+
+"I think AI is going to transform the future of mental health care for the better," he says. "But we as the clinical community have to learn to use it and work for it. So that means there's going to be a lot more training. We have to upskill ourselves."
+
+Refusing to use the technology is no longer an option, he adds. "Because if you take this approach and companies come in with products that may be good, maybe really bad and dangerous, we won't know how to evaluate them."
+
+In fact, involving mental health care professionals in the development of AI tools will only help make them better, adds Torous.
+
+That's what the striking mental health workers at Kaiser Permanente in northern California and the Central Valley would like to see their employer do — involve them in the development and rollout of AI tools.
+
+"If AI is utilized, don't keep us clinicians out of the human process of engaging with our patients in determining the right level of care," says Khalsa.
+
+As the technology improves to be more useful to mental health care providers, Torous thinks human providers will likely work hand in hand with AI assistants.
+
+"What we're probably moving towards is something called a hybrid or blended model of care," he says. Providers would still treat patients and provide therapy, while AI assistants or chatbots help patients do therapy homework, practice skills, and give providers "real-time feedback" on patients.
+
+Vaile Wright of the APA sees an ongoing role for flesh-and-blood therapists. "And that's in part because there are no AI digital solutions that can replace human-driven psychotherapy or care."
+
+Become an NPR sponsor

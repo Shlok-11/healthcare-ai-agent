@@ -1,0 +1,130 @@
+--- METADATA ---
+Source ID: Art_01
+URL: https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/
+----------------
+
+Long dismissed as a digital laggard that trailed years behind every major innovation wave, healthcare has flipped the script. The $4.9 trillion industry,1 which represents one-fifth of the U.S. economy2 but accounts for only 12% of software spend,3 is now deploying AI at more than twice the rate (2.2x) of the broader economy.
+
+According to Menlo Ventures’ research, 22% of healthcare organizations have implemented domain-specific AI tools, a 7x increase over 2024 and 10x over 2023. Health systems lead with 27% adoption, followed by outpatient providers at 18% and payers at 14%. Life sciences companies are earlier in their journey but moving quickly, developing proprietary models built on decades of internal data to accelerate drug development. By contrast, AI adoption across the broader economy lags behind. Fewer than one in 10 companies (9%) has implemented AI,4 and most rely on general tools like enterprise ChatGPT instead of purpose-built solutions.
+
+What’s driving the urgency? Industry conditions and market dynamics have made AI a strategic priority. For providers, administrative overhead continues to erode margins5 and burn out clinicians,6 compounding post-pandemic labor shortages. Payers face rising medical costs and constrained premium growth. Pharma and biotech struggle with stagnant productivity, long R&D timelines, and high costs. AI offers the potential for improved efficiency, economics, and outcomes.Organizations are already investing real dollars behind the promise. Healthcare AI spending hit $1.4 billion this year,7 nearly tripling 2024’s investment. To put that in perspective, our 2024 Enterprise AI report8 estimated the entire vertical AI market, including sectors from law to design and breakout companies like Harvey, Eve*, Midjourney, and Higgsfield*, at just $1.2 billion last year. Across the enterprise landscape, only horizontal chatbots and coding assistants are expanding faster.
+
+This surge of activity has produced eight healthcare AI unicorns and many more rising stars valued between $500 million and $1 billion—more than any other vertical AI segment, including legal, financial services, and media. In this early phase of rapid transformation, AI is defining the future of how healthcare operates.
+
+This report draws on comprehensive surveys of more than 700 healthcare executives across the United States, including senior leaders in insurance and benefits, executives in pharma and biotech, and technology decision-makers at healthcare provider organizations. It is further informed by conversations with dozens of additional industry stakeholders.9 The report offers a detailed look at healthcare’s AI transformation, exploring where organizations are advancing from pilots to production, which business models are converting services into software, and where the next wave of category leaders is poised to emerge across care delivery, health insurance, and drug development.
+
+Large-scale investment and adoption across leading players illustrates how dramatically the industry has transformed through AI in just the last 12 months:
+
+Healthcare’s approach to AI adoption differs markedly from past technology waves. Unlike the EHR era, which was driven by regulation, centralized decision-making, and long implementation cycles, healthcare buyers now embrace rapid experimentation across the organization, often starting with low-stakes pilots in administrative functions to build AI expertise and adoption muscle.
+
+Organizations that move quickly through this phase are capturing advantages in cost structure, patient satisfaction, and clinical outcomes. Those that move slowly risk falling irreversibly behind.
+
+Leading health organizations like Mayo Clinic, Cleveland Clinic, and Kaiser Permanente reflect this new approach. Working with AI partners, these systems prioritize:
+
+By stacking early wins, they build operational muscle for long-term transformation.
+
+Notably, cost is secondary in this framework. Organizations will pay a premium for trusted AI solutions in a space where the risks of failure (including operational disruption, patient harm, and reputational damage) are far greater.
+
+The shift toward rapid experimentation is reshaping how healthcare organizations buy technology. Our survey data shows that procurement cycles are compressing dramatically for health systems and outpatient providers.
+
+Health systems have shortened average buying cycles from 8.0 months for traditional IT purchases to 6.6 months, an 18% acceleration. Outpatient providers have moved even faster, reducing timelines from 6.0 months to 4.7 months, a 22% improvement.
+
+Not all sectors are moving at this pace. Payers have seen buying cycles lengthen from 9.4 months to 11.3 months, while pharmaceutical and biotech companies remain steady at around 10 months.
+
+This divergence reflects fundamentally different approaches to AI adoption. Historically known for slow technology uptake (many startups refer to provider purchasing cycles as “death by pilot”), leading providers have now crossed a threshold as they buy production solutions and deploy quickly, while payers and biopharma remain “AI-curious,” still in piloting and experimentation mode.
+
+Dollars are following the pace of adoption. Providers dominate AI adoption in healthcare, especially health systems—supplying $1 billion of the $1.4 billion now flowing into healthcare AI, or 75% of the total. Outpatient providers represent $280 million (20%), while payers contribute just $50 million (5%), and bio & life sciences less than that.
+
+Health systems are leading in AI because the level of need is highest and the ROI is obvious: thin margins, high staffing ratios and administrative costs, and staff shortages at all levels. AI agents offer the promise of improving efficiency and margins without compromising care quality.
+
+Two categories that address acute operational pain points and deliver measurable ROI are ambient clinical documentation ($600 million), which reduces physician burnout, and coding and billing automation ($450 million), which recovers revenue lost to coding errors and denials.10 Other fast-growing categories include patient engagement (+20x year over year) and prior authorization (+10x year over year).
+
+Our survey reveals that 85% of all generative AI spend in healthcare currently flows to startups rather than incumbents. Even in spaces like ambient scribing where Microsoft’s Nuance had deployed DAX medical speech recognition solutions to 77% of U.S. hospitals,11 startups like Abridge and Ambience have captured nearly 70% of the new market with superior performance.
+
+Startups have some advantages: They can move faster and design products natively around AI capabilities, unburdened by legacy technical debt and the bureaucracy of larger organizations. Incumbents’ new AI offerings have largely been bolt-on features to legacy platforms. As a result, AI-native challengers have gained rapid adoption and market share.
+
+For healthcare IT giants like Epic, Oracle Health, athenahealth, and Change Healthcare, this marks a period of real disruption risk. Many AI-native solutions are starting with a single wedge like medical scribing and expanding to take on more capabilities to ultimately disintermediate incumbents over time. However, Epic and other incumbents are now reacting, leveraging their massive advantages in distribution, integration, and scale.
+
+Healthcare IT spend has historically been both limited and concentrated relative to the industry’s massive scale. Our data reveals that total U.S. healthcare administration spending reaches $740 billion annually, yet healthcare IT represents just $63 billion of that spend.12 Manual labor and human services still dominate healthcare and contribute to its high cost.
+
+The market is concentrated: Epic built the dominant system of record for medical documentation. R1 RCM, Waystar, and SSI captured the back-office revenue cycle, selling software to streamline coding and billing. Together, medical documentation and back-office revenue cycle management (RCM) represent nearly 60% of all healthcare IT spending, a combined market of roughly $38 billion.
+
+Within these dollar flows, AI is finding budget along two distinct paths. Many of AI’s first winners have found success selling into existing IT budgets with solutions that augment existing IT systems with intelligent modules. But the larger and more transformative opportunity lies in automating manual workflows that  were never part of IT budgets, effectively converting services dollars into software dollars for the first time.
+
+Medical documentation and back-office RCM comprise nearly 60% of all healthcare IT spending:
+
+Companies like Abridge and OpenEvidence in documentation, and Commure and Smarter Technologies in back-office RCM, are competing for large pools of existing IT spend, not by replacing Epic or Waystar, but by augmenting them with automation that reduces required human clinical and administrative labor.
+
+This integration strategy offers a clear path to scale. Rather than fighting uphill battles to displace entrenched incumbents, these AI companies become the system of work that sits between doctors and EHRs, or between billing departments and claims processors. From there, they can expand horizontally into adjacent modules and, in time, even move down-stack to challenge the underlying system of record.
+
+Medical documentation and back-office RCM combined account for 60% of healthcare IT spend, creating a $38 billion opportunity to apply AI intelligence to established systems and workflows. Companies like Abridge and Smarter Technologies serve as the intelligence layers that once depended on clinical staff.
+
+Beyond existing IT budgets, even larger opportunities lie in administrative work that wasn’t automatable before AI. Prior authorization, patient engagement, and front-office RCM operations have historically been people-intensive workflows funded through services budgets rather than IT budgets. Within the $740 billion of total administrative spend, software and SaaS represent only a tiny fraction of these categories.
+
+Prior authorization is healthcare’s most reviled administrative process and one of the largest opportunities to streamline. Administrative services in front-office RCM currently total $98 billion annually, of which software is only 3%. AI has already created a $100+ million market here, growing 10x year over year with substantial room to expand.
+
+Legacy intake and electronic prior authorization solutions were largely digital forms that still needed manual completion. Clinical staff had to extract unstructured data from the EHR, apply clinical reasoning to determine medical necessity, and translate that into the formats insurers required—a process that could take days or weeks per authorization.
+
+Companies looking to transform this space include Latent, Tandem, Mandolin, and Squad Health* (prior authorization for specialty medications and infusions); Silna (prior auth for outpatient providers), and Tennr and Valerie Health (patient intake).
+
+These solutions augment or replace nurses and front-office staff who previously spent hours filling out forms or on hold with insurers. The ROI is immediate: Authorizations that once took days and delayed or stopped treatments can be completed in minutes, reducing administrative costs and improving access to care.
+
+Patient engagement and access account for more than $100 billion in annual administrative spending, yet software captures only about 5% of that total. AI is beginning to shift this dynamic, fueling a $100+ million market that’s growing 20x year over year.Problems start at healthcare’s “front door.” Patients struggle to access the right care at the right time, regardless of the type of care. After episodes of care, fragmentation and poor handoffs between different providers contribute to poorer outcomes, treatment abandonment, and lack of adherence. Providers historically do not follow up with patients, as the responsibility usually falls to overburdened nurses or outsourced call centers.
+
+AI is attacking this across the entire patient journey.
+
+AI has created a $50+ million market selling to payers that is growing 5x year over year. Companies include Distyl, Anterior, and Autonomize.
+
+This segment is more nascent than provider-side categories due to year-long sales cycles and payer enterprise requirements. But the opportunity is substantial: AI could transform core payer workflows including prior authorization, utilization management, payment integrity, and risk adjustment. Ultimately, provider AI agents could interface with payer AI agents to maximize administrative streamlining and minimize healthcare administrative costs and care delays.
+
+Ambient scribes are healthcare AI’s first breakout category, generating $600 million in 2025 (+2.4x YoY), more revenue and attention than any other clinical application. The category crowned two new unicorns this year, Abridge (30% market share) and Ambience (13%), though both still trail incumbent Nuance’s DAX Copilot (33%), according to our data.
+
+The value proposition is straightforward and powerful: Physicians spend one hour on documentation (“pajama time” for the evenings it takes) for every five hours of patient care.13 Ambient scribes use AI to listen to patient-doctor conversations, generate clinical notes, and populate EHR fields automatically, transforming the provider experience.
+
+Early success doesn’t guarantee lasting value. As ambient scribes look to the next phase of growth, they face two fundamental constraints.
+
+First, growth within existing customers faces headwinds. Customers expect penetration to plateau and pricing pressure to intensify. Survey respondents at large health systems estimate adoption at 35% today but only expect adoption to reach 40% over the next three years. Respondents at smaller health systems and outpatient providers also expect adoption to flatten. Early adopters are converting rapidly, but the data reveals more long-term holdouts than expected.
+
+Second, stickiness appears weak. When we asked about plans over the next three years, large health systems using ambient scribes indicated they were just as likely to switch vendors as to stay with their current scribe. Among outpatient providers, the likelihood to switch rises to 67%. Customers view scribing as becoming commoditized, and current switching costs are low.
+
+This explains why startups are racing to expand beyond documentation—becoming AI platforms for healthcare, not just point solutions. Abridge is partnering with Highmark Health to deploy AI for real-time prior authorization. Ambience’s pitch focuses as much on revenue integrity and coding as documentation. Mid-market and outpatient leaders like Nabla, Freed, and Eleos Health*, the leading scribes for behavioral and post-acute providers, are extending across the value chain to build modules for compliance and other RCM workflows. A flood of startups are picking out wedge markets and trying to expand with a similar playbook: fast product velocity and AI-native architecture.
+
+However, the EHRs are striking back. Epic, Oracle Health, and athenahealth have all introduced their own ambient scribes in recent months and are building AI directly into their platforms. The incumbency advantage shows clearly in our survey data: although startups currently capture 85% of AI revenue among respondents, most customers say they prefer to buy AI from their incumbent EHR. Customers favor startups for ambient scribes and chart review, but prefer EHRs for everything else: coding, billing, prior authorization, scheduling, clinical decision support, and patient navigation.
+
+Current customer preference is not inevitable. The field is changing fast, and if startups can deliver more value than incumbents, customer preference could change by the time of our next survey. But this data shows that the advantage of incumbent relationships should not be underestimated.
+
+As providers race to deploy AI across their operations, payers are watching closely, and with growing concern. Our survey highlighted two dominant fears about provider-side AI adoption and usage:
+
+Payers are formulating responses, but few have finalized their approach. Options under discussion include updating policies around medical necessity, increasing audits across the board, developing anti-provider AI policies, and working with AI platforms like Distyl to stand up their own AI systems to match provider capabilities.
+
+Pharmaceutical and biotech companies are also early in the AI adoption curve. Most life sciences organizations remain in experimentation mode, with limited production deployments of general-purpose LLMs like Claude*, ChatGPT, and Gemini.
+
+Life sciences companies are experimenting with AI across the drug development lifecycle. Customers highlight R&D data analysis (63%) as the most common area of interest, where AI can be used to ingest public data, analyze experimental data, and ultimately design or conduct experiments. Systems of record like Benchling* are adding AI agents to their platform. Newer startups like Lila, Biomni, and Edison (FutureHouse) are building agents to augment scientists or make autonomous discoveries. General-purpose LLMs like Claude and ChatGPT will also solve various use cases. However, revenue remains nascent while customers evaluate various approaches.
+
+Areas of interest and investment priorities for AI include: quality and regulatory (48%—companies include Veeva, Qualio*, Enzyme, Bluenote*); pre-clinical studies (42%—companies include Axiom, Vivodyne), medical affairs (40%—companies include Veeva, H1*, Medidata), and clinical trials (40%—companies include H1*, Tempus, Unlearn, ConcertAI).
+
+Our data shows that 66% of pharma companies are also looking to build or fine-tune proprietary models, including various foundation models of biology and drug discovery. This may reflect the perceived value of proprietary data in drug discovery. Companies building various foundation models applicable to different categories of biology include Xaira*, Evolutionary Scale, Recursion*, Chai Discovery*, Genesis Therapeutics*, Cradle, and Boltz.
+
+Healthcare’s AI moment is here. AI offers the potential to improve efficiency and quality of care. Providers are seeing products that deliver ROI and witnessing peers adopt at scale, and buying cycles have compressed from 12 to 18 months to under six. The conditions are aligned for rapid acceleration.
+
+But 80% of the market remains untapped. The next waves will come from companies automating services budgets, building voice interfaces for patient engagement, solving prior authorization at scale, and improving drug discovery.
+
+At Menlo Ventures, we invest at the intersection of technology and healthcare—backing founders who are reimagining how care is delivered and how medicine is discovered. We’re invested across the entire AI transformation: leading general foundation models (Anthropic); automating provider workflows (Brellium, Eleos Health, Heidi, New Lantern, Particle Health, Rivet, Squad Health); improving care delivery (Function Health, Solace, Delfi, Ophelia, Cartwheel, Ash, Colla Health); reinventing drug discovery (Recursion, Xaira, Chai Discovery, Genesis Therapeutics, Vilya); and accelerating life sciences companies (Benchling, H1, Bluenote, Qualio).
+
+If you’re building AI to redefine the future of healthcare, we want to hear from you.
+
+Menlo Ventures partnered with Morning Consult to conduct a study examining generative AI adoption and impact across the US healthcare system. In August and September 2025, Morning Consult surveyed 700+ executives (CxOs & SVP/VPs) involved in AI decision-making across three sectors: 410+ technology decision makers at provider organizations, 120+ senior insurance/benefits executives, and 170+ pharma/biotech executives.
+
+The survey benchmarked current AI adoption, identified leading use cases and drivers, and explored implementation challenges and opportunities facing healthcare organizations. Respondents were sampled to be representative of the U.S. healthcare system across organization size, segment, and geography—including both national and regional insurers serving commercial and Medicare/Medicaid plans, and health systems and independent providers spanning primary and specialty care. Beyond this survey data, we conducted conversations with more than 20 industry stakeholders and incorporated our perspective as active investors at the forefront of healthcare and AI.
+
+*Backed by Menlo Ventures
+
+Greg is a partner at Menlo Ventures, where he invests in teams trying to solve major problems in life science and healthcare, with a special interest in novel therapeutic platforms, digital health, and transformative technologies. Since joining in 2017, Greg has led Menlo investments including Cartwheel, Clear Labs, Curie, Delfi,…
+
+As a principal at Menlo Ventures, Derek focuses on early-stage investments across AI, cloud infrastructure, and digital health. He partners with companies from seed through inflection, including Anthropic, Eve, Neon, and Unstructured. Derek joined Menlo from Bain & Company, where he advised technology investors on opportunities ranging from machine learning…
+
+As a principal at Menlo Ventures, Johnny invests in biotech and life science companies with a focus on novel therapeutics and new technologies for improving medical outcomes. He has firsthand experience working at the bench on engineering new tools for the clinic. While completing his Ph.D., Johnny helped develop gene…
+
+Jean-Paul (JP) Sanday is a partner at Menlo Ventures who invests at the inflection stage. Focused on vertical SaaS and, more broadly, enterprise software, JP is particularly excited about companies defining the future of work, infusing our lives with intelligent automation and democratizing data analytics. His favorite part of the…
+
+Croom is a partner at Menlo Ventures focused on financial technology, healthcare IT, and enterprise SaaS. Since joining Menlo in 2017, he led the firm’s Series A investment in Arch, Finch, Prodigal, and Rivet and has also invested in Fieldwire (acquired by Hilti), Fleetsmith (acquired by Apple), HOVER, Particle Health,…
